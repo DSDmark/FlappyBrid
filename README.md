@@ -31,7 +31,7 @@ Once you are done playing you can close the tab in your browser to quit the game
 
 ## Try out Demo:-
 
-<a href="https://dsdmark.github.io/FlappyBrid/" alt="Flappy Brid Demo"></a>
+<a href="https://dsdmark.github.io/FlappyBrid/" alt="Flappy Brid Demo">Flappy Brid Demo</a>
 
 </div>
 
