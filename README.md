@@ -43,7 +43,7 @@ Once you are done playing you can close the tab in your browser to quit the game
 
 ### Flappy Brid
 
-![Flappy Brid perview](assets/images/perview.gif "AS੯ames Collection")
+![Flappy Brid preview](assets/images/preview.gif "AS੯ames Collection")
 
 </div>
 
